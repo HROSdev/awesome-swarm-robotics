@@ -3,7 +3,7 @@ Awesome Robotics
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This is a list of various books, courses and other resources for robotics. It's an attempt to gather useful material in one place for everybody who wants to learn more about the field.
+This page is HROS.dev's fork of the [kiloreux's Awesome Robotics repository](https://github.com/kiloreux/awesome-robotics) repository, listing of various books, courses and other resources for robotics -- please start with that source for Awesome Robotics needs, as that repository is attempt to gather useful material IN ONE PLACE for everybody who wants to learn more about AWESOME ROBOTICS.
 
 
 ### Courses ###
